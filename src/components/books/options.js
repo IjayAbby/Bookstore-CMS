@@ -50,7 +50,7 @@ const options = [
     id: '10',
   },
   {
-    text: 'Health',
+    text: 'Health & Wellness',
     value: 'health',
     id: '11',
   },
