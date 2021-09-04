@@ -45,24 +45,19 @@ const options = [
     id: '9',
   },
   {
-    text: 'Mental health',
-    value: 'mental health',
-    id: '10',
-  },
-  {
     text: 'Motivational',
     value: 'motivational',
-    id: '11',
+    id: '10',
   },
   {
     text: 'Health',
     value: 'health',
-    id: '12',
+    id: '11',
   },
   {
     text: 'Guide/How-to',
     value: 'guide',
-    id: '13',
+    id: '12',
   },
 ];
 
