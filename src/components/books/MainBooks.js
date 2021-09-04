@@ -1,5 +1,5 @@
 import React from 'react';
-import AddBook from './AddBook';
+import AddBook from '../books/AddBook';
 import BookList from './BookList';
 
 const MainBooks = () => (
