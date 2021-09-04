@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { addBookAction } from '../../redux/books/books';
 import options from './options';
 
-const Addbook = () => {
+const AddBook = () => {
   const dispatch = useDispatch();
 
   const submitBooktoStore = (e) => {
@@ -40,4 +40,4 @@ const Addbook = () => {
   );
 };
 
-export default Addbook;
+export default AddBook;
