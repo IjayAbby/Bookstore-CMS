@@ -4,6 +4,17 @@ import { addBookAction } from '../../redux/books/books';
 import options from './options';
 
 const Addbook = () => {
+    const dispatch = useDispatch();
+    
+    const submitBooktoStore = (e) => {
+        e.preventDefault();
+        const title = e.target.title.value;
+        const category = e.target.category.value;
+        e.target.title.value = '';
+        e.target.category.value = 'technology';
+        dispatch(addBookAction(title, category));
+      };
+
     return (
         <div className="px-8 sm:px-16 lg:px-24 xl:px-28 2xl:px-40">
             <div className="container mx-auto">
