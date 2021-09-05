@@ -26,6 +26,8 @@ To get a local copy up and running follow these simple steps:
 👤 **Ijay Abby**
 
 - GitHub: [@IjayAbby](https://github.com/IjayAbby)
+- Twitter: [@Ijay_js](https://twitter.com/Ijay_js)
+- LinkedIn: [Abigael Nyangasi](https://www.linkedin.com/in/ijayabby4/)
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
