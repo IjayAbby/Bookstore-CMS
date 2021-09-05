@@ -59,6 +59,11 @@ const options = [
     value: 'guide',
     id: '12',
   },
+  {
+    text: 'Fictional',
+    value: 'fiction',
+    id: '13',
+  },
 ];
 
 export default options;
